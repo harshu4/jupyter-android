@@ -1,0 +1,36 @@
+Jupyter-Android
+
+Aim : To make Jupyter-Notebooks usable for Android
+
+Problem Statment : Jupyter-Notebooks are not mobile-friendly
+
+Solution : To develop an all in one app to start Jupyter-Notebooks and Make it
+           Mobile friendly.
+
+Scope : We have a lot of young talent who wants to start learning ML and
+        Data-Science but due to lack of resources they are unable to buy
+        laptop or desktop-pc. Due to current technological advancement
+        in mobile technologies mobiles have became cheap and is the perfect
+        plantform for young devlopers to learn.The scope is not limited to
+        this audience
+
+
+Features :
+
+ - Better UI for terminal as well as Notebooks
+ - support for python3
+ - Connect to Remote Jupyter
+ - Start local Jupyter-Notebook on mobile
+
+Tech-stak :
+ - We are planning to use React-native for app
+ - Backend is not yet decided
+
+
+ What-to-learn :
+ - Websocket will play an important role in all communication so socket handling
+ - React-native
+ - We may need to compile some binaries for arm architecture
+
+
+ 
