@@ -1,0 +1,16 @@
+This file will contain all the research done and useful detail found
+
+the format of this log will need to be as follow
+
+Yourname
+Abstract : "Explain your finding shortly"
+Detail : "Explain with detail, you can add link , code of your finding here"
+
+Example
+
+Harsh
+Abstract : "Websocket communication between notebook"
+Detail : "The jupyter notebook makes an websocket connection with the browser for every code you type as
+          input it sends 4 or 5 websocket messages if the input needs as stdout it will send 5 messages
+          the third message will be the one containing stdout output, further research will be done on how
+          it sends graph and charts as message through websocket"
